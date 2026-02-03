@@ -1,13 +1,13 @@
 # callmath.js
 callmathJS is a javascript library for mathematics.
 
-## CallMath.js v0.4.2
+## CallMath.js v0.4.3
 A lightweight, human-friendly mathematical utility library for JavaScript.
 CallMath.js is designed to simplify complex mathematical operations and provide a more intuitive syntax for common calculations, unit conversions, and geometric formulas.
 ## Quick Start
 Include CallMath.js in your project via CDN:
 
-`<script src="https://raw.githubusercontent.com/MagmaMines/callmath.js/refs/heads/main/Library/callmath0.4.2.js"></script>`
+`<script src="https://raw.githubusercontent.com/MagmaMines/callmath.js/refs/heads/main/Library/callmath0.4.3.js"></script>`
 
 
  ## How to Use
