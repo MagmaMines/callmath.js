@@ -15,6 +15,8 @@ Simply include the script in your project:
 <script src="callmath.js"></script>
 
 Or copy the source directly into your utility file.
+### CDN on JSDELIVR
+`https://cdn.jsdelivr.net/gh/MagmaMines/callmath.js@main/Library/callmath0.4.3.js`
 
 ## ⚡ Quick Start
 // Basic Math
