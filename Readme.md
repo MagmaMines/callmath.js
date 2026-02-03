@@ -1,6 +1,8 @@
 ### callmath.js 
 > v0.4.3 | The Human-Friendly Calculation Engine
-> 
+
+<img width="2000" height="2000" alt="CallMathJS" src="https://github.com/user-attachments/assets/86387161-9624-4dbd-9b34-64b12980a14f" />
+
 callmath.js is a lightweight JavaScript library designed to parse and evaluate mathematical expressions the way humans actually type them. It bridges the gap between raw JavaScript Math and user-friendly input, supporting scientific notation, natural unit conversions, algebra variables, and precise syntax error highlighting.
 ## Features
  * Human Syntax: Understands implicit multiplication (2pi, 5(10), x y), percentages, and aliases.
